@@ -11,11 +11,11 @@ the apt repository for kbcli
     ```
 2. Download the kbcli public signing key:
     ```sh
-    curl -fsSL https://github.com/apecloud/kbcli-apt/raw/main/public.key | sudo apt-key add -
+    curl -fsSL https://apecloud.github.io/kbcli-apt/public.key | sudo apt-key add -
     ```
 3. Add the kbcli apt repository:
     ```sh
-    echo "deb [arch=amd64,arm64] https://github.com/apecloud/kbcli-apt/raw/main/ubuntu stable main" | sudo tee /etc/apt/sources.list.d/kbcli.list
+    echo "deb [arch=amd64,arm64] https://apecloud.github.io/kbcli-apt/repo stable main" | sudo tee /etc/apt/sources.list.d/kbcli.list
     ```
 4. update apt package index with the new repository and install kbcli:
     ```sh
