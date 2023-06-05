@@ -1,0 +1,7 @@
+Description: apecloud/kbcli-apt
+Codename: stable
+Architectures: arm64 amd64
+Components: main
+SignWith: 4CBED2DCDEB5DD987E6925FC5E26F4FBFE71688A
+
+
