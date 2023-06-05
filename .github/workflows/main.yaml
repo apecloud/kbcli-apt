@@ -33,7 +33,7 @@ jobs:
       - name: Github pages APT repo
         uses: jrandiny/apt-repo-action@v2.0.1
         with:
-          github_token: ${{ secrets.KBCLI_GITHUB_TOKEN}}
+          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN}}
           repo_supported_arch: | 
             arm64
             amd64
@@ -48,7 +48,7 @@ jobs:
       - name: Github pages APT repo
         uses: jrandiny/apt-repo-action@v2.0.1
         with:
-          github_token: ${{ secrets.KBCLI_GITHUB_TOKEN}}
+          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN}}
           repo_supported_arch: |
             arm64
             amd64
