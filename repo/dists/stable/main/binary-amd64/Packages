@@ -1,14 +1,14 @@
 Package: kbcli
-Version: 0.5.1
+Version: 0.5.2
 Maintainer: apecloud <dingben@apecloud.com>
 Architecture: amd64
 Homepage: https://github.com/apecloud/kbcli
 Priority: standard
 Section: utils
-Filename: pool/main/k/kbcli/kbcli_0.5.1_amd64.deb
-Size: 19562588
-SHA256: fda9583dcf23e20899d276e1f5d1b317b167e621a59519d7e8e68e2b91f95c18
-SHA1: 96662284959c61e0b0bc3dc3819f021c2914143c
-MD5sum: 1b4bc4ad0c67e0be25fb0cabce1994da
+Filename: pool/main/k/kbcli/kbcli_0.5.2_amd64.deb
+Size: 19544456
+SHA256: d27388bd98b112e4e530648aa815a3dd8fb7efc330fda11af1c3d5c5d83c9f9b
+SHA1: 1cc48f1db71c84a8cab306096c77a10fce5fcc8f
+MD5sum: 17a9d77a60feadc6f5887316b83b5513
 Description: A Command Line Interface for KubeBlocks
 
