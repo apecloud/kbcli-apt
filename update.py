@@ -29,7 +29,7 @@ def get_download_url_and_version(repo):
                 assets = data['assets']
                 for asset in assets:
                     browser_download_url = asset['browser_download_url']
-                    if 'kbcli-linux-arm64' in browser_download_url or 'kbcli-linux-amd64' in browser_download_url:
+                    if ('kbcli-linux-arm64' in browser_download_url or 'kbcli-linux-amd64' in browser_download_url) and browser_download_url.endswith('.tar.gz'):
                         filtered_urls.append(browser_download_url)
 
             return filtered_urls, tag_name.lstrip('v')
