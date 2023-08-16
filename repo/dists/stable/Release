@@ -1,5 +1,5 @@
 Codename: stable
-Date: Wed, 16 Aug 2023 23:02:29 UTC
+Date: Wed, 16 Aug 2023 23:02:49 UTC
 Architectures: arm64 amd64
 Components: main
 Description: apecloud/kbcli-apt
@@ -7,20 +7,20 @@ MD5Sum:
  9d877000a09ee924f466d3daefd26d55 468 main/binary-arm64/Packages
  4c3687dc5222323ae40ef60ca2b95d21 351 main/binary-arm64/Packages.gz
  bdb4c70ec061a42c6d56ffadffa913d3 68 main/binary-arm64/Release
- 1d9af4d1cddd7c9c83207e877c99ed4d 468 main/binary-amd64/Packages
- 5a993880ae315ed4d4b42260d90860b2 352 main/binary-amd64/Packages.gz
+ f8cef6c36fa9f0e2fcae9a2cc7fad64d 468 main/binary-amd64/Packages
+ 87f1e2ef51bdb02cb426eec866ba093d 352 main/binary-amd64/Packages.gz
  a1c4a3e84f75817279ef306cc9777baa 68 main/binary-amd64/Release
 SHA1:
  fffe7cbbecb97c262b48188371fc526295aac6de 468 main/binary-arm64/Packages
  9fc5d8156fdc967a61670d59c07bdd4a0df4d4a8 351 main/binary-arm64/Packages.gz
  01209ef7d441ef62330783ac1c7b440e460b4b8f 68 main/binary-arm64/Release
- a4e1d6268cf2d869703508d480d354c4f8aeb054 468 main/binary-amd64/Packages
- 6781eeda5c69f749ddbc5c5555aef717ee98ce90 352 main/binary-amd64/Packages.gz
+ ab9c7fbd919c267f3bf4cd11ad4e36f37d134769 468 main/binary-amd64/Packages
+ 89e7f4511b62561b0cafd663586955ee7dc8346a 352 main/binary-amd64/Packages.gz
  1db8c45ca86d16d109be51301a770fa150fe20a0 68 main/binary-amd64/Release
 SHA256:
  36cfe60f69f2678613f9ac4300b0fb13b34ab31bc60545f292021bf249f8df4c 468 main/binary-arm64/Packages
  7f997dae6bcee6cfd50a62cd2a55d3bb55d8dd8c80d9d12943ca26b756a7922b 351 main/binary-arm64/Packages.gz
  273e61cdf0a4fe04adcc80e3b5e806f16fa87fb8e24c688e2af3e0483cbbe3a7 68 main/binary-arm64/Release
- 207d8ddb45d326350054c217346d3aac6e392cd594d74fb46b0cef9c75847db5 468 main/binary-amd64/Packages
- c9f487b81c6404adc3150cde9268ff96cc9c4739e6230f20179a94bb04880cd6 352 main/binary-amd64/Packages.gz
+ 44f825ba1d64881105c39b1e3ae2bc1db5e0140c3f60fe3a2e59ce5e80d5bf62 468 main/binary-amd64/Packages
+ 8f0e8af0ca74b01577b5b3f7e24e0f27ec76a1c696263e27fdae7fc60b0435a7 352 main/binary-amd64/Packages.gz
  3ff33f1cd0dec4d480eb73feb0fe4c33e629655c23d6dbc399061dba5d9ae162 68 main/binary-amd64/Release
