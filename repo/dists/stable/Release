@@ -1,25 +1,25 @@
 Codename: stable
-Date: Wed, 16 Aug 2023 23:02:49 UTC
+Date: Thu, 17 Aug 2023 23:02:24 UTC
 Architectures: arm64 amd64
 Components: main
 Description: apecloud/kbcli-apt
 MD5Sum:
- 9d877000a09ee924f466d3daefd26d55 468 main/binary-arm64/Packages
- 4c3687dc5222323ae40ef60ca2b95d21 351 main/binary-arm64/Packages.gz
+ bce58f7f4b7b53c356e6508662248c09 468 main/binary-arm64/Packages
+ e8584857f70cc3db2b35eeb4c77e55a5 354 main/binary-arm64/Packages.gz
  bdb4c70ec061a42c6d56ffadffa913d3 68 main/binary-arm64/Release
  f8cef6c36fa9f0e2fcae9a2cc7fad64d 468 main/binary-amd64/Packages
  87f1e2ef51bdb02cb426eec866ba093d 352 main/binary-amd64/Packages.gz
  a1c4a3e84f75817279ef306cc9777baa 68 main/binary-amd64/Release
 SHA1:
- fffe7cbbecb97c262b48188371fc526295aac6de 468 main/binary-arm64/Packages
- 9fc5d8156fdc967a61670d59c07bdd4a0df4d4a8 351 main/binary-arm64/Packages.gz
+ 0243d55f08fc33d2d532785e38e46de746c90cd1 468 main/binary-arm64/Packages
+ 4751ad0b655268b1ef355d6d0749c294d703537b 354 main/binary-arm64/Packages.gz
  01209ef7d441ef62330783ac1c7b440e460b4b8f 68 main/binary-arm64/Release
  ab9c7fbd919c267f3bf4cd11ad4e36f37d134769 468 main/binary-amd64/Packages
  89e7f4511b62561b0cafd663586955ee7dc8346a 352 main/binary-amd64/Packages.gz
  1db8c45ca86d16d109be51301a770fa150fe20a0 68 main/binary-amd64/Release
 SHA256:
- 36cfe60f69f2678613f9ac4300b0fb13b34ab31bc60545f292021bf249f8df4c 468 main/binary-arm64/Packages
- 7f997dae6bcee6cfd50a62cd2a55d3bb55d8dd8c80d9d12943ca26b756a7922b 351 main/binary-arm64/Packages.gz
+ 8fd1ec0946cea9ee3976ac3baa919b8d4d2a56c118785ea3ae85aa095bab4dbd 468 main/binary-arm64/Packages
+ 4d90aee30b7520014d500dfaa069bbea980774f8fd3e24338b7f2bdac5134292 354 main/binary-arm64/Packages.gz
  273e61cdf0a4fe04adcc80e3b5e806f16fa87fb8e24c688e2af3e0483cbbe3a7 68 main/binary-arm64/Release
  44f825ba1d64881105c39b1e3ae2bc1db5e0140c3f60fe3a2e59ce5e80d5bf62 468 main/binary-amd64/Packages
  8f0e8af0ca74b01577b5b3f7e24e0f27ec76a1c696263e27fdae7fc60b0435a7 352 main/binary-amd64/Packages.gz
