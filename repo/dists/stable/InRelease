@@ -2,7 +2,7 @@
 Hash: SHA512
 
 Codename: stable
-Date: Mon, 21 Aug 2023 23:02:34 UTC
+Date: Tue, 29 Aug 2023 23:02:17 UTC
 Architectures: arm64 amd64
 Components: main
 Description: apecloud/kbcli-apt
@@ -29,15 +29,15 @@ SHA256:
  3ff33f1cd0dec4d480eb73feb0fe4c33e629655c23d6dbc399061dba5d9ae162 68 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEETL7S3N613Zh+aSX8Xib0+/5xaIoFAmTj7QoACgkQXib0+/5x
-aIrhfAv/e6yFCwGGXBh0o7KGVNguMm8LmaWbzWaCCYc2X2rr7ec22hYf9nawBgn9
-UnILcyfv6Pk2Fy2KmbUdigJ1OkcwzIzQQd87LUUV570qwhGDSaZ7n2wvK3vFQAyc
-NALh1gb0yN7pmvOA55oZpEItDwOfVUfjkc/qtou71zD7iMLAC4FTwm6Q+1Jg7XIQ
-sfIqCeLX9wKrRsYWhPgFjoJpaC/UHMaQzS2owcfa79PM7WiYYOLkYYQaUjKeQ0Ii
-gly0XibotLQy7HS7gT2LNP/L8BfFd3t6dJ1B3nSd6Mq9i1PahJcvqJsaMJXBlT1g
-h72gYJCJLZ+Da7R7HMHBu9xkImaOKou51C+E2vh7JHNO2hiUD2g3d+xsn/fvIafE
-B+ETpa8iygmZSFunhXNwnC4PL/0v2AjLpPdV9+SLYFIRVJKEXDKsdJHBCnc6JjQL
-LUR7rHJwW8Z1jlE3aBY7JHFc+Ey0kzhyTWV9vib9kptqhLftQKqd3XRZc2fVa/1o
-fAOoGZbF
-=filU
+iQGzBAEBCgAdFiEETL7S3N613Zh+aSX8Xib0+/5xaIoFAmTuePkACgkQXib0+/5x
+aIotHgv/aNWWypB3j771FNNORNiXXTn7DqXH/Q9qj/R4+jOiaWVs7u7V+A5o7pwn
+NBpJDnSalkVEuMnhCtUlezOYAyKYZBCyBwUbczEeOM4bTPuvz8EYOspuGh4ZGxCq
+eZVCj58VhY2QFwbG5mohbN+YM3YdN4tIl8GcKwSyzjOMW8NwOjeyGsF5SI/S05EY
+IxQoV7+okzydAyz1A26ccw0B6XZplzbzrrKwvJpui7xkRY6b2LTOTa9YcFKYLh9P
+yJ7tuxRQ+YpeDMt4aFv12n9Ut5J0jJ7jNbhdatzD367GPGqvUkup5FWnde0wup4d
+OS602gXDwE5EXA4mmw0itnKTdctODx1sgjxY/w1+LmZkVdXd0YVcgqD5ezI8qOwg
+7vLlB56eS87sIoF7/RUDuzLRkksGNEyv7DttD4d31+8MSohYTIQgXtXyMz/l5f4D
+rRuwvKGSq8Mmsim5A1BhIc7gV1uBDcktEPGer5GbdJUsiAll6IduJJ6hhhDl6KlZ
+Y0qMfFf+
+=LZSI
 -----END PGP SIGNATURE-----
