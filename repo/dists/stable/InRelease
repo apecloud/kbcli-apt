@@ -2,42 +2,42 @@
 Hash: SHA512
 
 Codename: stable
-Date: Mon, 06 Nov 2023 23:01:57 UTC
+Date: Fri, 24 Nov 2023 23:01:35 UTC
 Architectures: arm64 amd64
 Components: main
 Description: apecloud/kbcli-apt
 MD5Sum:
- 3ebe07baa8f56eaddb01e868101cea7f 468 main/binary-arm64/Packages
- 737a775ee94fadc35286b55da19f8641 355 main/binary-arm64/Packages.gz
+ 232284385c05a3f84009e9704025216d 452 main/binary-arm64/Packages
+ 44097abd3c44f0f1bb559b74fcd3cb30 346 main/binary-arm64/Packages.gz
  bdb4c70ec061a42c6d56ffadffa913d3 68 main/binary-arm64/Release
  8265158b44ba53539c17fcec46e370f4 468 main/binary-amd64/Packages
  87ac7d7fb679e4c951623eb0ed6ad5d0 354 main/binary-amd64/Packages.gz
  a1c4a3e84f75817279ef306cc9777baa 68 main/binary-amd64/Release
 SHA1:
- f9972ab679c47281d1269c25b9494249b29169cb 468 main/binary-arm64/Packages
- 97c416ed2519abbac6902c092dbe624d11e83d51 355 main/binary-arm64/Packages.gz
+ 05ce5c6bfdb0b268d2a544dc3f8884e8a39f1554 452 main/binary-arm64/Packages
+ 76a1662fbd9c8ea8aace0b7960a5b6e86756f1b7 346 main/binary-arm64/Packages.gz
  01209ef7d441ef62330783ac1c7b440e460b4b8f 68 main/binary-arm64/Release
  7de0d531615dcf510ea81a0814a4682ae0b75b34 468 main/binary-amd64/Packages
  6c8c01f09d57d7d59461aed9a6b25d487ff03d24 354 main/binary-amd64/Packages.gz
  1db8c45ca86d16d109be51301a770fa150fe20a0 68 main/binary-amd64/Release
 SHA256:
- edbbf642d344d53e3dd5bb6e8138765e8d19aedf98f6b7a9a1d612cb887d7b95 468 main/binary-arm64/Packages
- 5b977306b75d47561a9a1aae5f2c93aa9af31520d659af25a6730d2795855d7f 355 main/binary-arm64/Packages.gz
+ 997496e2ad2bd4dc000c18d83e637b78af3fa10c5bd5914d19037a376a907fba 452 main/binary-arm64/Packages
+ e6684c783ea2c5fe5af460067ae7d489db8f5a962cb82d5fdfe20e206d35c98a 346 main/binary-arm64/Packages.gz
  273e61cdf0a4fe04adcc80e3b5e806f16fa87fb8e24c688e2af3e0483cbbe3a7 68 main/binary-arm64/Release
  b68a7d84f5d4255d762e1a382fb96b2232dd682090f8bd82685c3bc957efa3f8 468 main/binary-amd64/Packages
  8cc707cb00ffd052e9aa57845d35b1e72a7d675c11ee06d54059bda1e33841ac 354 main/binary-amd64/Packages.gz
  3ff33f1cd0dec4d480eb73feb0fe4c33e629655c23d6dbc399061dba5d9ae162 68 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEETL7S3N613Zh+aSX8Xib0+/5xaIoFAmVJcGYACgkQXib0+/5x
-aIohpAv/To9+k0kPXTmMqUf/6FcwmoaaZv9GcTC+kuNUs/A8wZLBFaFlXBYl2+zd
-YgNg2W5FyCnbLJKfQlEvfkOorJ5VykcD4UIB6l0ZeWzxf6UW7Kqgy3owzKF3/Pn7
-cNpOBqfCshWkDov2DzrmTVTwKYzrb9R2/zBMHv76pXbFA/ElSH/XI4G20jLe/jy3
-pf7UFYq/Ct0GKCMVQAjs61LwaVIz4Lp/uAKNd0xud3b5qjuZNLgpPLZhxpGAcnlb
-wfJJm57UsAVUQW/OGVgu+cL2v6JSCQX8rAyLg91pfuBvLe9PLBX9VjKiGCebsSna
-Ff2ha8pSP1sUju3cCJVkZkDmNXQY/MNvjy8h6YTxzYLXbbPnKl2HZihKJHFjAI14
-e9b1BF4zV5+MXasAJoFokRIKpwQfIRXCfpLROaGsedCApciW8Qatna+1Bfp2iyHP
-7jJtuh3RRPF4t+i43tjoBQ8p2zRTgiE0veuaJLcDliD50HiB26+tKSwz0PhuJ93Z
-WFOu6/6T
-=A1bB
+iQGzBAEBCgAdFiEETL7S3N613Zh+aSX8Xib0+/5xaIoFAmVhK08ACgkQXib0+/5x
+aIrq2wv/awE7vr5jCI+7BxOFtuQJCxYmDoO4FlbrK5X+lqi/C5Xzz1i6a4n6G4qI
+T4oK4KnqD2nY6Xva/LL55ecjqz2phm3xcu+d3zXKpRJi9dht4UVKg0mnxIjrX6gh
+9YrsBsxis9tlLxNFuwgUFIOkruCdWjNmnLKW7LhcPO/L7PO9GXipRK4us2WICtYS
+7YtUdeAntMpHwhiN3A2c8O8WqQm2n/QP0cLfdPl76qVaI0C/Xh7nLtyGMgF1lIQb
+3Gu4md5o+VyqJnWwWNOze+TbS6So6t+6uVcwiouRnrPz9RG5SR4r2StXlJ27jmo7
+gfWu/0Yi/1OHlc/O86qrnka041biG0iW+WS+hLcg+U/kf4Y/D1XLl8HvQhPeClIk
+cKeLN7Z50KpV0HhcF8YjBTTDW56RqY2GTkAAMAoKsYsEnUjnJWQ+iHLW6opGKOI1
+B4GQU2L5+Z7iED+6rffJJykkRaZQp5420BNn2fbJNNisCbeOgtxjp5xe99aEw6Pr
+aYp/01xa
+=MWGa
 -----END PGP SIGNATURE-----
